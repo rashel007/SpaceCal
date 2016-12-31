@@ -36,5 +36,10 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>FlappyBird.ttf</string>
+		<string>HELLDORA.TTF</string>
+	</array>
 </dict>
 </plist>

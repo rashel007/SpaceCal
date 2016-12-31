@@ -12,6 +12,10 @@
 		26B149241E16E40A00D57193 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26B149221E16E40A00D57193 /* Main.storyboard */; };
 		26B149261E16E40A00D57193 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 26B149251E16E40A00D57193 /* Assets.xcassets */; };
 		26B149291E16E40A00D57193 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26B149271E16E40A00D57193 /* LaunchScreen.storyboard */; };
+		26B149311E16F79900D57193 /* FlappyBirdy.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 26B149301E16F79900D57193 /* FlappyBirdy.ttf */; };
+		26B149331E16F8D700D57193 /* HELLDORA.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 26B149321E16F8D700D57193 /* HELLDORA.TTF */; };
+		26B149351E16FB6B00D57193 /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 26B149341E16FB6B00D57193 /* btn.wav */; };
+		26B149371E16FDEF00D57193 /* sound.wav in Resources */ = {isa = PBXBuildFile; fileRef = 26B149361E16FDEF00D57193 /* sound.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +26,10 @@
 		26B149251E16E40A00D57193 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		26B149281E16E40A00D57193 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		26B1492A1E16E40A00D57193 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		26B149301E16F79900D57193 /* FlappyBirdy.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FlappyBirdy.ttf; sourceTree = "<group>"; };
+		26B149321E16F8D700D57193 /* HELLDORA.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = HELLDORA.TTF; sourceTree = "<group>"; };
+		26B149341E16FB6B00D57193 /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
+		26B149361E16FDEF00D57193 /* sound.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = sound.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +62,10 @@
 		26B1491D1E16E40A00D57193 /* SpaceCal */ = {
 			isa = PBXGroup;
 			children = (
+				26B149361E16FDEF00D57193 /* sound.wav */,
+				26B149341E16FB6B00D57193 /* btn.wav */,
+				26B149321E16F8D700D57193 /* HELLDORA.TTF */,
+				26B149301E16F79900D57193 /* FlappyBirdy.ttf */,
 				26B1491E1E16E40A00D57193 /* AppDelegate.swift */,
 				26B149201E16E40A00D57193 /* ViewController.swift */,
 				26B149221E16E40A00D57193 /* Main.storyboard */,
@@ -124,6 +136,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				26B149291E16E40A00D57193 /* LaunchScreen.storyboard in Resources */,
+				26B149331E16F8D700D57193 /* HELLDORA.TTF in Resources */,
+				26B149371E16FDEF00D57193 /* sound.wav in Resources */,
+				26B149311E16F79900D57193 /* FlappyBirdy.ttf in Resources */,
+				26B149351E16FB6B00D57193 /* btn.wav in Resources */,
 				26B149261E16E40A00D57193 /* Assets.xcassets in Resources */,
 				26B149241E16E40A00D57193 /* Main.storyboard in Resources */,
 			);
